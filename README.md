@@ -1,19 +1,16 @@
-## Hi there 👋
+# Hola, soy Amin Espinoza
 
 :computer: **Ingeniero de Software en Microsoft**
-
 :pencil: **Generador de contenido**
-
 :eyeglasses: **Geek empedernido** (¿aun se usa geek?)
-
 :oncoming_automobile: **Fan de los autos, carreras y simuladores**
-
 :family: **¡El papa mas feliz del mundo!**
 
 ### Vias de contacto
 
-![Website](https://img.shields.io/badge/aminespinoza.com-up-green?style=for-the-badge)
+[¡[Facebook](https://www.facebook.com/profile.php?id=100080508391639)][Facebook]
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Jefferson555/Jefferson555)
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
 
-![Github commit activity](https://img.shields.io/github/commit-activity/y/aminespinoza10/minimal-api-unit-tests)
+<!--END_SECTION:activity-->
