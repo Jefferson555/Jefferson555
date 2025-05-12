@@ -11,6 +11,5 @@
 [¡[Facebook](https://www.facebook.com/profile.php?id=100080508391639)][Facebook]
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
